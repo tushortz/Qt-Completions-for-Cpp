@@ -1,0 +1,26 @@
+{
+	"scope": "source.cpp, source.c++",
+
+	"completions":
+	[
+		{"trigger": "Enginio\tQt Namespaces", "contents": "#include <Enginio>"},
+		{"trigger": "QAudio\tQt Namespaces", "contents": "#include <QAudio>"},
+		{"trigger": "QBluetooth\tQt Namespaces", "contents": "#include <QBluetooth>"},
+		{"trigger": "QDBus\tQt Namespaces", "contents": "#include <QDBus>"},
+		{"trigger": "QGL\tQt Namespaces", "contents": "#include <QGL>"},
+		{"trigger": "QLocation\tQt Namespaces", "contents": "#include <QLocation>"},
+		{"trigger": "QMediaMetaData\tQt Namespaces", "contents": "#include <QMediaMetaData>"},
+		{"trigger": "QMultimedia\tQt Namespaces", "contents": "#include <QMultimedia>"},
+		{"trigger": "QSql\tQt Namespaces", "contents": "#include <QSql>"},
+		{"trigger": "QSsl\tQt Namespaces", "contents": "#include <QSsl>"},
+		{"trigger": "QTest\tQt Namespaces", "contents": "#include <QTest>"},
+		{"trigger": "QWebSocketProtocol\tQt Namespaces", "contents": "#include <QWebSocketProtocol>"},
+		{"trigger": "Qt\tQt Namespaces", "contents": "#include <Qt>"},
+		{"trigger": "Qt3D\tQt Namespaces", "contents": "#include <Qt3D>"},
+		{"trigger": "QtAndroid\tQt Namespaces", "contents": "#include <QtAndroid>"},
+		{"trigger": "QtConcurrent\tQt Namespaces", "contents": "#include <QtConcurrent>"},
+		{"trigger": "QtMac\tQt Namespaces", "contents": "#include <QtMac>"},
+		{"trigger": "QtWin\tQt Namespaces", "contents": "#include <QtWin>"},
+
+	]
+}

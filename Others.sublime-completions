@@ -1,0 +1,10 @@
+{
+	"scope": "source.cpp, source.c++",
+
+	"completions":
+	[
+		{"trigger": "main \tQt* main", "contents": "\n#include <QtWidgets>\n\nint main(int argc, char* argv[])\n{\n\n\tQApplication ${1:app}(argc, argv);\n\n\n\n\treturn ${1:app}.exec();\n}"},
+		{"trigger": "QApplication\tQt* QApp", "contents": "QApplication ${1:app}(argc, argv);"},
+		{"trigger": "return\tQt* return", "contents": "return ${1:app}.exec();"},
+	]
+}
