@@ -39,7 +39,7 @@ On a Python file in sublime text, type your desired component name or method and
 | **Q**Label         | `QLabel`                 |  Classes     |
 | **Q**Audio         | `#include <QAudio>`      |  Namespaces  |
 
-
+> Advice: This completion package is meant for Qt for C++ and not C++. You can disable this package if working on C++ alone.
 
 ## Contributing
 
