@@ -38,7 +38,7 @@ On a Python file in sublime text, type your desired component name or method and
 | **Q**tWidgets      | `#include <QtWidgets>`   |  Modules     |
 | **Q**Label         | `QLabel`                 |  Classes     |
 | **Q**Audio         | `#include <QAudio>`      |  Namespaces  |
-| **I-**QLabel       |  `QLabel* *labe* = new QLabel();` | Instances |
+| **I-**QLabel       |  `QLabel* labe = new QLabel();` | Instances |
 
 > **Note:** You need to use **upper case** `I-` to get instances completion.  
 
